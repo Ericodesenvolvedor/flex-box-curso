@@ -4,11 +4,11 @@
 
 > Flex box estudos
 
-Neste projeto foi criado o site da alurinha usando o flexbox para posicionar os elementos na tela. #cursoFlexBox
+Neste projeto foi criado o site da alurinha usando o flexbox para posicionar os elementos na tela. #cursoFlexBox :books:
 
-[Clique aqui para ver o site hospedado](https://ericodesenvolvedor.github.io/flex-box-curso/)
+[:paperclip: Clique aqui para ver o site hospedado](https://ericodesenvolvedor.github.io/flex-box-curso/)
 
-## Tecnologias utilizadas
+## :computer: Tecnologias utilizadas
 
 - Html
 - Css
