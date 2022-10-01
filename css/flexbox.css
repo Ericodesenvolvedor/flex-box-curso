@@ -7,3 +7,24 @@
 .cabecalhoPrincipal-nav {
     display: flex;
 }
+
+.rodapePrincipal-patrocinadores .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.rodapePrincipal-patrocinadores-list {
+    width: 70%;
+    margin-left: 5%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.rodapePrincipal-contatoForm {
+    width: 25%;
+}
+
+.rodapePrincipal-contatoForm {
+    display: flex;
+}
