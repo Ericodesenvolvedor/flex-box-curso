@@ -25,6 +25,12 @@
     width: 25%;
 }
 
-.rodapePrincipal-contatoForm {
+.rodapePrincipal-contatoForm,
+.rodapePrincipal-navMap-list {
     display: flex;
+}
+
+.rodapePrincipal-navMap-list .container {
+    display: flex;
+    flex-direction: column;
 }
